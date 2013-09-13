@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Github create test"
+date:   2013-09-13 14:40:22
+---
+
+Github create blog post test
