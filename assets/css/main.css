@@ -5,6 +5,10 @@ body {
   line-height: 1.7em;
 }
 
+a {
+  color: #08C;
+}
+
 .container {
   background-color: #fff;
   width: 700px;
