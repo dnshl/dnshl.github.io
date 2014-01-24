@@ -5,6 +5,10 @@ body {
   line-height: 1.7em;
 }
 
+h1 a {
+  color: #444;
+}
+
 a {
   color: #08C;
   text-decoration: none;
